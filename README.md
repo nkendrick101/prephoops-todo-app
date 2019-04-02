@@ -14,6 +14,8 @@ You can make your application as simple or complex as you want. Do not overthink
 -   Create a To-Do item
 -   Edit a To-Do item
 -   Delete a To-Do item
+-   Complete a To-Do item
+-   Uncomplete a To-Do item
 -   Tag or Categorize an item
 -   Search
 -   Logout
