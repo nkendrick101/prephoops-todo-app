@@ -8,17 +8,17 @@ In this role, you will often be the designer, frontend and backend developer. Bu
 
 You can make your application as simple or complex as you want. Do not overthink it, but know that we want something built with lightweight code that is powerful for the user, and scalable for the company.
 
--   \*\*Create an account
--   \*\*Create a To-Do item
--   \*\*Edit a To-Do item
--   \*\*Delete a To-Do item
--   \*\*Tag or Categorize an item
--   \*\*Search
--   \*\*Logout
+-   Create an account
+-   Create a To-Do item
+-   Edit a To-Do item
+-   Delete a To-Do item
+-   Tag or Categorize an item
+-   Search
+-   Logout
 
 ## Instructions
 
--   \*\*Fork the code from the repos above
--   \*\*Create your application using a JS framework as your frontend
--   \*\*Create an API using a PHP framework as your backend
--   \*\*Once finished (presuming you use React and Laravel), create a pull request. Once you have done that, we will review your code.
+-   Fork the code from the repos above
+-   Create your application using a JS framework as your frontend
+-   Create an API using a PHP framework as your backend
+-   Once finished (presuming you use React and Laravel), create a pull request. Once you have done that, we will review your code.
