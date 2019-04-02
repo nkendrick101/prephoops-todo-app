@@ -20,7 +20,7 @@ You can make your application as simple or complex as you want. Do not overthink
 
 ## Instructions
 
--   Fork the code from the repos above
+-   Fork the code from [This Repo](https://github.com/JeanHules/prephoops-todo-app) which has both the Laravel and React repos setup as submodules.
 -   Create your application using a JS framework as your frontend
 -   Create an API using a PHP framework as your backend
--   Once finished (presuming you use React and Laravel), create a pull request. Once you have done that, we will review your code.
+-   Once finished, create a pull request. Once you have done that, we will review your code.
