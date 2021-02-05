@@ -31,3 +31,26 @@ You can make your application as simple or complex as you want. Do not overthink
 -   On successful setup, you should see "Welcome To The Prep Network Challenge"
 -   Create an API using a PHP framework as your backend
 -   Once finished, create a pull request. Once you have done that, we will review your code.
+
+## Get Started
+
+```
+git clone git@github.com:JeanHules/prephoops-todo-app.git
+cd prephoops-todo-app
+git submodule update --init --recursive
+cd react-boiler-plate
+yarn
+yarn dev
+```
+
+CREATE DATABASE TABLE CALLED todo ON LOCALHOST
+
+```
+cd laravel-boiler-plate
+mv .env.example .env
+composer install
+php artisan key:generate
+php artisan serve
+```
+
+Go to localhost:8080 to see running site. It should say, "Welcome To The Prep Network Challenge"
