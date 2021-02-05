@@ -26,6 +26,8 @@ You can make your application as simple or complex as you want. Do not overthink
 ## Instructions
 
 -   Fork the code from [This Repo](https://github.com/JeanHules/prephoops-todo-app) which has both the Laravel and React repos setup as submodules.
--   Create your application using a JS framework as your frontend
+-   In a terminal window, run the instruction for the react application
+-   In another terminal window, start the laravel application (See here for getting started with Laravel: https://laravel.com/docs/7.x)
+-   On successful setup, you should see "Welcome To The Prep Network Challenge"
 -   Create an API using a PHP framework as your backend
 -   Once finished, create a pull request. Once you have done that, we will review your code.
