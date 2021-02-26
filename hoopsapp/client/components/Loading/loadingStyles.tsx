@@ -1,0 +1,33 @@
+
+import css from 'styled-jsx/css'
+/* @import url(https://fonts.googleapis.com/css?family=Lato|Oswald:400,300); */
+export const mainStyles = css `
+.Loading {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    z-index: 10000;
+    background: transparent;
+    transition: all 200ms ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+
+    svg path,
+    svg rect {
+      fill: rgba(0, 0, 0, 0.8);
+    }
+
+    &--show {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+
+`;
+
+

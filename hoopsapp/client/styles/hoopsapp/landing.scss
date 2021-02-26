@@ -1,0 +1,22 @@
+.wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #fff url("https://res.cloudinary.com/mts-corp/image/upload/v1613070190/hoops/tj-dragotta-Gl0jBJJTDWs-unsplash_goq4v5.jpg") center center no-repeat;
+    background-size: cover;
+  }
+  .wrap .content {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2em;
+    box-sizing: border-box;
+    margin-top: 2em;
+    border-radius: 2px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    background: rgba(255, 255, 255, 0.5);
+  }
+  .wrap .content h1 {
+    margin: 0;
+  }
